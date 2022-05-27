@@ -1,6 +1,6 @@
 ## Management System
 
-react 연습 하는 고객관리 시스템 프로젝트
+react와 node.js를 연습하며 구현하는 고객관리 시스템 프로젝트
 
 # Getting Started with Create React App
 
